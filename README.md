@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Leonard 👋
 
-<!--
-**leonard1255/leonard1255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Independent game developer
 
-Here are some ideas to get you started:
+Founder of **Artil Studio**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I create mobile games, trivia challenges, reaction games and web experiences using Apache Cordova and web technologies.
+
+## Games
+
+🧠 Trivia Hit  
+⚡ Speed Tap  
+💣 7 Boom  
+🍬 Poison Candyd
+🔵 Find the Ball
+כןכןכ
+
+## Website
+
+🌐 https://artil.app
+
+## Technologies
+
+- Apache Cordova
+- JavaScript
+- HTML5
+- CSS3
+- Firebase
+- MySQL
+- ASP.NET
